@@ -16,7 +16,7 @@ Welcome to **Untold-LangGraph**, where you'll find the latest projects and exper
 
 🌠 **License**: The code in this repository is licensed under the [MIT License](LICENSE).
 
-🌟 **Contributing**: Contributions are encouraged! Please fork the repository, make your changes, and submit a pull request. For more details, check out the [CONTRIBUTING.md](CONTRIBUTING.md).
+
 
 🎇 **Updates**: The repository is continuously updated with new features and models. Check back often for new experiments and enhanced agent functionalities.
 
