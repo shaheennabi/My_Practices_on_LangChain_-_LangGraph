@@ -2,7 +2,7 @@
 
 Welcome to **Untold-LangGraph**, where you'll find the latest projects and experiments focused on **LangGraph** or **LangChain Agents**. This repository is dedicated to hands-on exploration, experimentation, and implementation of cutting-edge agent-based technology, keeping up-to-date with **LangChain** documentation.
 
-🌟 **Purpose**: Dive deep into the world of **LangChain agents** and related technologies. We focus on providing a rich environment for experimenting with the latest features, tools, and agent applications as described in LangChain.
+🌟 **Purpose**: Dive deep into the world of **LangChain agents** and related technologies. I will focus on providing a rich environment for experimenting with the latest features, tools, and agent applications as described in LangChain.
 
 🌠 **What you'll find**:
 - 🌟 **LangChain Agent** experiments in real time.
