@@ -20,5 +20,5 @@ Welcome to **Untold-LangGraph**, where you'll find the latest projects and exper
 
 🎇 **Updates**: The repository is continuously updated with new features and models. Check back often for new experiments and enhanced agent functionalities.
 
-✨🚀 Stay tuned for more exciting updates! 🎆🌠
+✨🚀 I will also implement some other agent frameworks like CrewAI, AutoGen, OpenAI Swarm etc here 🎆🌠
 
