@@ -26,6 +26,6 @@ user_query_embedding = embeddings.embed_query(user_query)
 # Calculate cosine similarity between the user query embedding and document embeddings
 similarities = cosine_similarity([user_query_embedding], doc_embeddings)[0]
 
-index, score = print("Cosine Similarities:", sorted(list(enumerate(similarities)), key=lambda x: x[1])[-1])
+index, score = sorted(list(enumerate(similarities)), key=lambda x: x[1])[-1]
 
 print(f"Most similar document index: {index}, Score: {score}")
