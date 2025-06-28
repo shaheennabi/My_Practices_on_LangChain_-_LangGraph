@@ -1,6 +1,6 @@
 # ✨🎆 My Practices on LangChain and LangGraph 🎆✨
 
-ongoing...
+ongoing....
 
 
 Welcome to **Untold-LangGraph**, where you'll find the latest projects and experiments focused on **LangGraph** or **LangChain Agents**. This repository is dedicated to hands-on exploration, experimentation, and implementation of cutting-edge agent-based technology, keeping up-to-date with **LangChain** documentation.
